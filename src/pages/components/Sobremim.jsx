@@ -12,7 +12,7 @@ const Sobremim = () => {
                     <p className='font-light text-[18px] my-5 max-screen900:text-center max-screen900:max-w-[600px] max-screen900:mx-auto'>Estou disponível para novas parcerias e projetos. Se você busca soluções criativas e eficazes para o seu negócio, entre em contato!</p>
                     <ul className='font-light text-[18px] mt-8 max-screen900:max-w-[430px] max-screen900:mx-auto'>
                         <li className="pl-[45px] my-5 relative before:content-[''] before:absolute before:left-0 before:top-[50%] before:translate-y-[-50%] before:w-[30px] before:h-[30px] before:bg-img_bg_sobremim_aprov before:bg-cover before:bg-no-repeat">
-                            Técnico em Informática para Intenert pelo IF Baiano Campus Guanambi.
+                            Técnico em Informática para Internet pelo IF Baiano Campus Guanambi.
                         </li>
                         <li className="pl-[45px] my-5 relative before:content-[''] before:absolute before:left-0 before:top-[50%] before:translate-y-[-50%] before:w-[30px] before:h-[30px] before:bg-img_bg_sobremim_aprov before:bg-cover before:bg-no-repeat">
                             Analista de Sistema pela PUC Minas (Cursando)
